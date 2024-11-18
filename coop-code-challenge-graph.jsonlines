@@ -1,0 +1,5 @@
+{"id": "A", "reports_to": null}
+{"id": "K", "reports_to": "A"}
+{"id": "C", "reports_to": "A"}
+{"id": "B", "reports_to": "C"}
+{"id": "E", "reports_to": "B"}
